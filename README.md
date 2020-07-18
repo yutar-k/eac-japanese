@@ -28,16 +28,16 @@ Code > Download ZIP もしくは[こちら](https://github.com/yutar-k/eac-japan
 
 `Languages/Japanese.txt`はEAC本体の日本語化言語ファイルです。
 
-945様、yk様、Chappu様、[kazutomo(ハウツーIT)様](https://howto-it.com/eacinstall.html)、[じゅん様](http://cherryblossomsagain.seesaa.net/article/475494450.html)が翻訳・公開されてきたファイルをリポジトリ登録しました。
+初版は、945様、yk様、Chappu様、[kazutomo(ハウツーIT)様](https://howto-it.com/eacinstall.html)、[じゅん様](http://cherryblossomsagain.seesaa.net/article/475494450.html)が翻訳・公開されてきたファイルをリポジトリ登録しました。
 
-## freedb metadata plugin・GD3 metadata plugin 日本語化ファイル
+## freedb metadata plugin 日本語化ファイル
 
-`Languages_freedb/Japanese.txt`はEAC freedb metadata pluginの日本語化言語ファイルです。
+`Languages_freedb/Japanese.txt`はfreedb metadata pluginの日本語化言語ファイルです。
 
-[シャー芯(sha-shin)様](https://twitter.com/sha_shin_chyp)が翻訳・公開されてきたファイルをリポジトリ登録しました。
+初版は、[シャー芯(sha-shin)様](https://twitter.com/sha_shin_chyp)が翻訳・公開されてきたファイルをリポジトリ登録しました。
 
 ## GD3 metadata plugin 日本語化ファイル
 
 `Languages_gd3/Japanese.txt`はGD3 metadata pluginの日本語化言語ファイルです。
 
-[シャー芯(sha-shin)様](https://twitter.com/sha_shin_chyp)が翻訳・公開されてきたファイルをリポジトリ登録しました。
+初版は、[シャー芯(sha-shin)様](https://twitter.com/sha_shin_chyp)が翻訳・公開されてきたファイルをリポジトリ登録しました。
