@@ -15,7 +15,8 @@ EAC V1.5
 ├ Languages_freedb/
 |  |-- Japanese.txt
 ├ Languages_gd3/
-|  |-- Japanese.txt
+   |-- Japanese.txt
+
 ```
 
 ## 適用方法
